@@ -1,0 +1,6 @@
+Math operators are lines of code in which you can do math problems.
+C# will normally multiply and divide before adding and subtracting
+Like how when in class we subracted .1 from the health of 100
+You can do any form of mathimatical equation as long as you know the correct way to write the code
+When there are multiplication and division in a line of code, C# will go from left to right to solve the problem
+Doing math in C# is simple because it basically does all the work for you
